@@ -7,6 +7,8 @@ using namespace std;
 
 int z = KOK;
 
+unsigned int licz = LICZ;
+
 template <class T>
 class Odwr
 {
